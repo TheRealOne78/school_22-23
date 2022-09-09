@@ -5,6 +5,11 @@ First layer directory structure:
 
 ```
 school_22-23/
+├─ CDL/
+├─ Engleza/
+├─ Istorie/
+├─ Religie/
+├─ TIC/
 
 # made with https://ascii-tree-generator.com/
 ```
