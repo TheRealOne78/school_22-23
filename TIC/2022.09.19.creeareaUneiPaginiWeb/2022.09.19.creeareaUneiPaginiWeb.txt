@@ -1,0 +1,15 @@
+Creearea unei pagini web
+
+1. Creeare unui folder in care se vor salva toate fisierele atat cele ce contine limbaj HTML cat si cele de tip imagini, audio, video, etc
+2. Se deschide programul notepad in care se scrie limbajul HTML < > </ > (marcaje(deschis respectiv inchis)
+3. Se salveaza fisierul notepad cu extensia .html/.htm
+4. Orice modificare in pagina HTML se va face numai in fisierul sursa, se va salva simplu (ctrl + s) si se va vizualiza in browser dupa refresh.
+
+
+Structura paginii web:
+
+<html>
+<head></head>
+<body>
+<body>
+</html>
