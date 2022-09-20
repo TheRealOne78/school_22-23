@@ -6,8 +6,10 @@ First layer directory structure:
 ```
 school_22-23/
 ├─ CDL/
+├─ Elemente de statistica, finante si asigurari/
 ├─ Engleza/
 ├─ Istorie/
+├─ Negociere si Contractare/
 ├─ Religie/
 ├─ TIC/
 
