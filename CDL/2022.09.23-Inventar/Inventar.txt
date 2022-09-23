@@ -1,0 +1,64 @@
+Mijloace fixe:
+  - Laptop Dell Insipron 3511 i5-1135G7 8G, 256G+1T - 2688.48 = 2688.48
+	- Imprimanta 3D FDM Prusa i3 MK3S+ - 5725                   = 5725
+
+Mijloace de inventar:
+	- Imprimanta 3D FFF Creality Ender 5 Pro[x2] - 2145.57      = 4291.14
+	- Imprimanta 3D DLP Creality LD-002R[x2] - 1869.99          = 3739.98
+	- Set accesorii duze, penseta, ace - 90.28                  = 90.28
+	- Laptop Asus X415FA-EB037 i3-10110U 4G, 256G - 1278.63     = 1278.63
+	- Laptop Asus E510MA-BR610 Celeron 4G, 256G - 849.90        = 849.90
+	- Imprimanta EPSON L5290 - 1389.90                          = 1389.90
+	- Arc fixare pat[x8] - 3.90                                 = 31.2
+	- Syoss Max Hold[x10] - 25.29                               = 252.90
+	- Banda Scotch[x2] - 5.00                                   = 10.00
+	- Lipici Solid Bic[x4] - 13.14                              = 52.56
+	- Mouse Wireless[x3] - 35.18                                = 105.53
+	- Pereche manusi de cauciuc[x50] - 4.95                     = 247.5
+	- Filtru de hartie rasina[x20] - 2.48                       = 49.6
+	- Statie curatare si expunere Anycubic - 999                = 99
+	- Alcool izpropilic IPA 1L[x10] - 31.98                     = 319.80
+  - Prelungitor 10m, 4 prize [x2] - 46.99                     = 93.98
+	- Prelungitor 5m, 4 prize[x3] - 34.00                       = 68.00
+  - Card SD 8G[x2] - 48.99                                    = 97.98
+  - Stick Memorie USB[x3] - 39.90                             = 119.69
+	- Set pix albastru Bic 60buc - 45.22                        = 45.22
+	- Marker Negru[x3] - 15.99                                  = 47.97
+
+  ==Filament/rasina==
+  - PLA negru[x8] - 99                                        = 792
+	- PLA alb[x8] - 99                                          = 792
+	- PLA violet[x2] - 99                                       = 198
+	- PLA albastru[x2] - 99                                     = 198
+	- PLA bleumarin[x2] - 99                                    = 198
+	- PLA rosu[x2] - 99                                         = 198
+	- PLA galben[x2] - 99                                       = 198
+	- PLA verde deschis[x2] - 99                                = 198
+	- PLA gri[x2] - 99                                          = 198
+	- PLA maro[x2] - 99                                         = 198
+	- PLA mint - 99                                             = 99
+	- PLA rosu zmeura - 99                                      = 99
+	- PLA auriu - 106                                           = 106
+	- PLA cupru - 106                                           = 106
+  - PLA aluminiu - 106                                        = 106
+	- PETG alb[x5] - 99                                         = 495
+	- PETG negru[x5] - 99                                       = 495
+	- PETG violet[x2] - 99                                      = 198
+	- PETG albastru[x2] - 99                                    = 198
+	- PETG bleumarin[x2] - 99                                   = 198
+	- PETG rosu[x2] - 99                                        = 198
+	- PETG galben[x2] - 99                                      = 198
+	- PETG verde deschis[x2] - 99                               = 198
+	- PETG gri[x2] - 99                                         = 198
+	- PETG maro[x2] - 99                                        = 198
+  - TPU negru[x3] - 168.50                                    = 505.5
+	- TPU alb[x3] - 168.50                                      = 505.5
+	- TPU albastru[x2] - 168.50                                 = 337
+	- TPU rosu[x2] - 168.50                                     = 337
+	- TPU verde deschis[x2] - 168.50                            = 337
+	- TPU gri[x2] - 168.50                                      = 337
+	- Rasina galbena 500g[x2] - 131.72                          = 263.44
+	- Rasina verde 1000g - 231.85                               = 231.85
+	- Rasina negru 500g[x2] - 214                               = 418
+	- Rasina alb 500g[x2] - 273                                 = 546
+	                                                      TOTAL = 31770.53
