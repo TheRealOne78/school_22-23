@@ -1,0 +1,2 @@
+1. Pagina: Culoarea de fundal - imaginea se declara cu ajutorul lui "bgcolor" in eticheta <body>
+bgcolor poate lua valorile: #rrggbb sau nume de culoare.
