@@ -30,4 +30,17 @@ In negociere se pleaca de la un interes comun, iar in vanzare cumparare vanzator
 
 Etapele parcurse de comparator in procesul de vanzare cumparare
   1. Constientizeaza nevoile - este reflectata de manifestarea unei insatisfactii determinata de factori interni sau externi(factorii de mediu)
-  2. Culegerea informatiei - se realizeaza in mod pasiv/activ
+  2. Culegerea informatiei - se realizeaza in mod pasiv/activ:
+    > pasiv: mass-media
+    > activ: deplasare in magazine, cererea preturilor. etc(se desfasoara foarte atent atunci cand achizitia este de valoare mai mare)
+[2022.10.06]
+  3. Elaborarea criteriilor de evaluare: Cu informatiile culese se realizeaza o imagine "perfecta" a ceea ce se cauta si in functie de aceasta imagine se elaboreaza o "lista" de criterii in baza careia se fac alegerile. Aceasta lista reprezinta de fapt preferintele in functie de care se face achizitia.
+
+La procesul de cumparare iau parte doua tipuri de cumparatori:
+  1. Cumparatorul individual
+  2. Cumparatorul organizational(agenti economici)/firme
+Ambele tipuri de cumparatori parcurg aceleasi etape, dar abordarea acestora se face in mod diferit:
+  1. Cumparatorul individual: - Nu isi stabileste in mod riguros criteriile de cumparare => de multe ori nu stie precis de ce a cumparat
+                              - Are capacitatea de asi stabili preferinte pe baza carora ia decizie de cumparare
+                              - Cumparaturile mai scumpe sau riscante se fac dupa o informare amanuntita
+                              - Criteriile de cumparare sunt ordonate dupa importanta pe care o da cumparatorul achizitiei
