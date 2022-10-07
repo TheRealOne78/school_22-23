@@ -44,3 +44,22 @@ Ambele tipuri de cumparatori parcurg aceleasi etape, dar abordarea acestora se f
                               - Are capacitatea de asi stabili preferinte pe baza carora ia decizie de cumparare
                               - Cumparaturile mai scumpe sau riscante se fac dupa o informare amanuntita
                               - Criteriile de cumparare sunt ordonate dupa importanta pe care o da cumparatorul achizitiei
+[2022.10.07]
+  2. Cumparatorul organizational: - Desfasoara o activitate complexa si bine structurata de identificarea nevoilor si culegerea informatiilor.
+                                  - stabileste SPECIFICATIA DE PRODUS care este un document ce cuprinde nevoile reale ale firmei. Este intocmit de o echipa formata din utilizatorii produsului respectiv, personalul tehnic si personalul de decizie. Se trimite specificatia catre mai multi furnizori sau producatori si se asteapta ofertele acestora.
+                                  - Isi formeaza un nucleu de cumparare: utilizatorii, personalul tehnic, personalul de decizie, personal care autorizeaza achizitia si departementul de achizitii.
+Cumparatorul individual nu este intotdeaunea foarte bine pregatit in ceea ce priveste achizitia de produse, in stabilirea criteriilor, in exprimarea nevoilor.
+In acest caz, vanzatorul are rolul cel mai important deoarece trebuie sa descopere care sunt nevoile cumparatorilor si care sunt criteriile de cumparare/evaluare.
+
+Nevoile cumparatorului:
+  1. Declarate: Cele exprimate in mod direct de cumparator si arata cum anume sa fie produsul pe care il doreste sa il cumpere
+  2. Ascunse: Cele nedeclarate, neconturate sau protejate din diferite motive. Vanzatorul are obligatia de a transforma nevoia ascunsa in una declarata.
+In procesul de cumparare are un rol important motivul/motivele.
+In literatura de specialitate exista numeroase modele teoretice care clarifica aceste motive de cumparare.
+
+S - Siguranta/securitate(durabilitate, fiabilitate, rezistenta)
+O - Orgoliu
+N - Noutate/Inovatie/Produs nou pe piata
+C - Confort
+A - Avere
+S - Sempate/Preferinta
