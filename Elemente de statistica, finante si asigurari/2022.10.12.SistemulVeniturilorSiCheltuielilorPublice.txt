@@ -1,0 +1,26 @@
+[2022.10.12]
+
+Evaziunea fiscala: infractiune
+
+Incidenţa impozitului este directă dacă suportatorul şi contribuabilul sunt una şi aceeaşi
+persoană.
+
+CONTRIBUABIL = SUPORTATOR => Incidenta directa.
+CONTRIBUABIL != SUPORTATOR => Incidenta indirecta => Repercusiunea Impozitelor
+
+Impozitele directe -|
+                    v
+									  Venituri nominale
+									  |
+									  v
+									  Nivel de trai
+
+Impozitele indirecte -|
+                      v
+											Venituri Reale
+											|
+											v
+											Putere de cumparare
+											|
+											v
+											Nivel de trai
