@@ -11,8 +11,9 @@ Negocierea nu este o stiinta exacta deoarece:
 	- Reactiile sunt imprevizibile
 
 Negocierea nu este un joc.
-  Justificari: - Jocurile au reguli!
-	             - Jocurile se bazeaza pe noroc
+  *Justificari:
+    - Jocurile au reguli!
+	  - Jocurile se bazeaza pe noroc
 
 Negocierea nu este un razboi, deoarece nu se urmareste eliminarea partenerului.
 
@@ -40,6 +41,7 @@ La procesul de cumparare iau parte doua tipuri de cumparatori:
   1. Cumparatorul individual
   2. Cumparatorul organizational(agenti economici)/firme
 Ambele tipuri de cumparatori parcurg aceleasi etape, dar abordarea acestora se face in mod diferit:
+
   1. Cumparatorul individual: - Nu isi stabileste in mod riguros criteriile de cumparare => de multe ori nu stie precis de ce a cumparat
                               - Are capacitatea de asi stabili preferinte pe baza carora ia decizie de cumparare
                               - Cumparaturile mai scumpe sau riscante se fac dupa o informare amanuntita
@@ -57,9 +59,47 @@ Nevoile cumparatorului:
 In procesul de cumparare are un rol important motivul/motivele.
 In literatura de specialitate exista numeroase modele teoretice care clarifica aceste motive de cumparare.
 
-S - Siguranta/securitate(durabilitate, fiabilitate, rezistenta)
-O - Orgoliu
-N - Noutate/Inovatie/Produs nou pe piata
-C - Confort
-A - Avere
-S - Sempate/Preferinta
+Model motive cumparare
+  S - Siguranta/securitate(durabilitate, fiabilitate, rezistenta)
+  O - Orgoliu
+  N - Noutate/Inovatie/Produs nou pe piata
+  C - Comfort
+  A - Avere
+  S - Sempate/Preferinta
+
+[2022.10.13]
+Continutul procesului de vanzare-cumparare
+In procesul de vanzare-cumparare, vanzatorul are un rol foarte important. El trebuie sa stapaneasca tehnicile de vanzare cu ajutorul carora il poate convinge pe cumparator sa achizitioneze de la el produsele si serviciile.
+
+Vanzatorul mai indeplineste si alte 2 roluri:
+  1. Planificator strategic: Trebuie sa stie cum sa interactioneze cu cumparatorii
+  2. Finantist: Trebuie sa gaseasca solutii in fata tuturor clientilor, mai ales in fata clientiilor nemultumiti
+
+Procesul de vanzare-cumparare parcurge MAI MULTE ETAPE.
+  1. Pregatirea vanzarii
+    - cunoasterea cat mai detaliata a caracteristiciilor produselor
+    - isi planifica modul in care poate descoperi nevoile clientului
+  2. Abordarea clientului
+    - in aceasta etapa, vanzatorul trebuie sa creeze o ambianta placuta
+    - trebuie sa respecte regulile de politete(salut, formula de adresare, etc.)
+  3. Descoperirea nevoilor clientului
+    - Intelegerea nevoilor
+    - Intelegerea asteptarilor clientului
+    - Bugetul
+    - Urgenta nevoii de cumparare
+  4. Prezentarea solutiei
+    - Propunerea de cumparare
+  5. Etapa de argumentare si demonstrare
+  6. Rezolvarea obiectiilor clientului
+  7. Concluzia asupra cumpararii produsului:
+    - fixarea intentiei clientului
+    - luare deciziei de cumparare
+  8. Despartirea de client
+    - In conditii civilizate
+  9. Continuarea relatiei de comunicare cu clientii
+    - Contribuie la fidelizarea clientiilor
+
+[2022.10.14]
+Etapele vanzarii sunt exprimate de specialisti prin intermediul a 2 modele teoretice:
+  1. AIDA - 
+  2. DIDADA - 
