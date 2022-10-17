@@ -1,0 +1,65 @@
+Liste:
+
+
+Liste ordonate: <ol></ol>
+  1.
+	2.
+	3.
+	etc.
+
+Accepta urmatoarele atribute:
+  type="*"
+	  1(1, 2, 3...)
+		a(a, b, c...)
+		A(A, B, C...)
+		i(i, ii, iii...)
+		I(I, II, III...)
+	start="nr"
+
+Fiecare element al listei se noteaza cu <li></li>
+
+Accepta urmatoarele atribute:
+	start="nr"
+
+Ex:
+  <ol>
+	  <li>Ceva</li>
+	</ol>
+
+
+  Output:
+	1. Ceva
+
+Liste neordonate: <ul></ul>
+  - 
+	- 
+	- 
+	etc.
+
+Accepta urmatoarele atribute:
+	type="*"
+	  square
+		circle
+		disc
+
+Ex:
+	<ul>
+	  <li>Ceva</li>
+	</ul>
+
+  Output:
+	- Ceva
+
+
+Liste de definitie: <dl></dl>
+Fiecare termen: <dt></dt>
+Fiecare definitie: <dd></dd>
+
+	<dl>
+		<dt>
+			<dd>
+		<dt>
+			<dd>
+	</dl>
+
+Obs: Listele ordonate si neordonate pot fi imbricate(intercalate)
