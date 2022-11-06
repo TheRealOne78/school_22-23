@@ -1,0 +1,16 @@
+[2022.09.xx] - Infiintare firma
+
+anexa 1 referitor la inregistrarea fiscala:
+  Cerere inregistrare firma
+  actul constitutiv
+	declaratia pe propria raspundere tip 2
+	specimen de semnatura
+	copii acte de identitate
+	contract de comodat
+  declaratie privind autorizarea functionarii
+	cerere inregistrare anaf
+	declaratia de beneficiar real
+
+  Cerere de inregistrare in reg comert
+
+[/*To be replaced with date*/]
