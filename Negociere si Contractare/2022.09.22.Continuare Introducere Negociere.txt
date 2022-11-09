@@ -8,12 +8,12 @@ Pentru a ajunge la acest rezultat, in negociere se folosesc concesii si compromi
 Negocierea nu este o stiinta exacta deoarece:
   - Nu toate date de intrare in ecuatia negocierii sunt quantificabile.
   - Apare elementul surpriza deoarece negocierea este o activitate exclusiv umana
-	- Reactiile sunt imprevizibile
+  - Reactiile sunt imprevizibile
 
 Negocierea nu este un joc.
   *Justificari:
     - Jocurile au reguli!
-	  - Jocurile se bazeaza pe noroc
+    - Jocurile se bazeaza pe noroc
 
 Negocierea nu este un razboi, deoarece nu se urmareste eliminarea partenerului.
 
@@ -21,8 +21,8 @@ Negocierea nu este o tocmeala, deoarece nu intotdeauna miza unei negocieri este 
 
 Negocierea nu este o dezbatere, deoarece:
   - Scopul unei negocieri este unul real comparativ cu dezbaterea
-	- Nu are arbitru
-	- In negocieri nu exista castigator si infrant
+  - Nu are arbitru
+  - In negocieri nu exista castigator si infrant
 Pana la un anumit punct putem spune ca negocierea este o dezbatere deoarece apar argumente
 
 [2022.09.23]
