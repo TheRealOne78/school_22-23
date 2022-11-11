@@ -1,21 +1,31 @@
 Perceperea
-Plata directa: - Impozit pe profit
-               - TVA
-Stopaj la sursa:  - Impozit pe salarii
-									- Impozit pe dobanzi
-                  - Impozit pe dividende
+Plata directa:
+  - Impozit pe profit
+  - TVA
+Stopaj la sursa:
+  - Impozit pe salarii
+  - Impozit pe dobanzi
+  - Impozit pe dividende
 
-Impunere si debitare: - Impozit pe cladiri
-                      - Impozit pe autoturisme
+Impunere si debitare:
+  - Impozit pe cladiri
+  - Impozit pe autoturisme
 
-Aplicarea pe timbre fiscale mobile: - Taxa de timbru
+Aplicarea pe timbre fiscale mobile:
+  - Taxa de timbru
 
-Termenul de plata: Se plateste la data stabilita de lege
+Termenul de plata:
+  Se plateste la data stabilita de lege
 
-Inlesniri/Facilitati discale: - Reduceri de impozit
-															- Bonificatii
-										          - Compensari
-															- Amanari
-															- Esalonari/reesalonari
+Inlesniri/Facilitati discale:
+  - Reduceri de impozit
+  - Bonificatii
+  - Compensari
+  - Amanari
+  - Esalonari/reesalonari
 
-Sanctiuni: Conform legii, contribuabilul răspunde de depunerea declaraţiilor fiscale, de determinarea şi achitarea impozitului în termenul legal. Nerespectarea obligaţiilor sale legale atrage penalităţi, amenzi, executări silite sau chiar sancţiuni penale.
+Sanctiuni:
+  Conform legii, contribuabilul răspunde de depunerea declaraţiilor fiscale,
+  de determinarea şi achitarea impozitului în termenul legal. Nerespectarea
+  obligaţiilor sale legale atrage penalităţi, amenzi, executări silite sau
+  chiar sancţiuni penale.

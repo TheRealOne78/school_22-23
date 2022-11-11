@@ -8,19 +8,21 @@ persoană.
 CONTRIBUABIL = SUPORTATOR => Incidenta directa.
 CONTRIBUABIL != SUPORTATOR => Incidenta indirecta => Repercusiunea Impozitelor
 
+
 Impozitele directe -|
                     v
-									  Venituri nominale
-									  |
-									  v
-									  Nivel de trai
+                Venituri nominale
+                    |
+                    v
+                Nivel de trai
+
 
 Impozitele indirecte -|
                       v
-											Venituri Reale
-											|
-											v
-											Putere de cumparare
-											|
-											v
-											Nivel de trai
+                  Venituri Reale
+                      |
+                      v
+                  Putere de cumparare
+                      |
+                      v
+                  Nivel de trai
