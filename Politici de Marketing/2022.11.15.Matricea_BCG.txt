@@ -1,0 +1,16 @@
+
+
+Elementele matricei BCG
+	┌──────────────────────────┬─────────────────────────┐
+  │ 1. Dileme                │ 2. Vedete               │
+  │                          │                         │
+  │    Dilemele sunt afltate │    Produse aflate in    │
+  │    in etapa de lansare   │    etapa de crestere    │
+  │                          │                         │
+  ├──────────────────────────┼─────────────────────────┤
+  │ 3. Vaci de muls          │ 4. Pietre de moara      │
+  │                          │                         │
+  │    Produse aflate in     │   Produsele aflate in   │
+  │    maturitate            │   perioada de declin    │
+  │                          │                         │
+  └──────────────────────────┴─────────────────────────┘
