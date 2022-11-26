@@ -49,9 +49,43 @@ TIPURI DE NEGOCIERE
         > reciprocitate
         > propunerea unor oferte stimulative
         > promisiune facuta cu buna-credinta
+     a) WIN - WIN (castig - castig)
+       - Reprezinta rezultatul optim al negocierii deoarece fiacare parte cauta solutii pentru problemele partenerului de negociere
+       - Negociatorii sunt persoane deschise care vad rezultatul negocierii din perspectiva dezvoltarii unei relatii pe termen lung
+       - Lucrurile agreate in negociere vor fi puse in practica de fiecare parte implicata deoarece toti participantii la negociere pleaca motivati de la masa negocierii
+     b) CASTIG sau NETRANZACTIONARE (verde - mov)
+       CASTIG:
+         - presupune rezolvarea propriei probleme
+         - num vor neaparat sa piarda ceilalti dar nu urmaresc ce se intampla cu acestia
+       NETRANZACTIONATE:
+         - in cazul lipsei unei solutii reciproc avantajoase se agreeaza neincheierea afacerii
+         - specifice negocierii intre prieteni, ei nedorind sa strice relatiile de prietenie
+
+    Negocierea Rationala
+      - este o negociere obiectiva
+      - se bazeaza pe argumente legale, care sunt cuprinse in norme ce trebuie respectate
+      - daca nu se ajunge la niciun rezultat, se apeleaza la un "arbitru" sau mediator, o persoana neutra care va incerca sa rezolve conflictul bazandu-se pe "litera legii"
 
 2. Dupa domeniile in care se desfasoara
 
+  Diplomatica
+
+  Economica
+
+  Sociala
+
 3. Dupa specificul juridico-politic al partilor
 
+  Intraguvernamentala (interstatala)
+    - Urmareste incheierea intelegerilor politice care vizeaza instituirea cadrului institutional si juridic de desfasurare a relatiilor dintre state
+    - Se concretizeaza prin semnarea de acroduri, conventii, intelegeri si alte acte diplomatice sau economice
+
+  Neguvernamentala
+    - Urmareste incheierea de contracte si acorduri de cooperare intre diverse organizatii sau alte tipuri de parteneri
+    - Vizeaza atat incheierea de noi contracte sau acorduri cat si modificarea, completarea sau prelungirea celor existente
+
 4. Dupa numarul participantilor
+  - Bilaterala
+    Se desfasoare intre doua parti
+  - Multilaterale
+    Se desfasoara intre trei sau mai multe parti (persoane, echipe, etc)

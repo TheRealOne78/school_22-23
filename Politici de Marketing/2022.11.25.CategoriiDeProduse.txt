@@ -1,0 +1,9 @@
+Categorii de produse
+
+1. Liderul gamei: produsul ce genereaza cea mai mare cifra de afaceri/cel mai mare profit
+2. Produse de atractie: reclame sunt produsele care determina consumatorul sa caute mai multe informatii despre ele si sa-si doreasca sa le cumpere chiar daca sunt mai scumpe
+3. Produse regulatoare: elimina sau diminueaza variatiile sezoniere
+  Volumul vanzariiilor este constant, iar veniturile obtinute acopera cheltuielile uzuale si neprevazute
+4. Produse tactice: Au rolul de a contracara punctual actiunile concurentei
+5. Produse de apel: Sunt produse atractive cu oferta limitata in timp. Atractivitatea poate face referire la pretul scazut sau la raportul calitate-pret deosebit
+6. Produse care pregatesc viitorul: Prin caracteristicile lor(modernitate, tehnologie de ultima generatie) confera intreprinderii o pozitie privilegiata pe piata.
