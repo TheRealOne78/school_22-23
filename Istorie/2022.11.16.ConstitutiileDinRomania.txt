@@ -5,7 +5,7 @@ Constitutiile din Romania
     Propune separarea puterilor in stat si un sistem de guvernare modern
 
   b. Regulamentele organice: - Tara Romaneasca 1831 - Moldova 1832
-    Considerate primele constitutii aduc separarea puteriilor in stat precum si modernizarea fiscalitatii, organizarea arhivelor statului si introducerea bugetului de stat.
+    Considerate primele constitutii aduc separarea puterilor in stat precum si modernizarea fiscalitatii, organizarea arhivelor statului si introducerea bugetului de stat.
 
   c. Proclamatia de la Islaz - 1848 Tara Romaneasca
     Sistem democratic
@@ -24,9 +24,66 @@ Constitutiile din Romania
       - Poate face legi
       - Organizeaza Senatul
 
-2. Constitutii democratice  # Data viitoare
-  a. Constituia din 1966
+[2022.11.23]
+2. Constitutii democratice
+  a. Constituia din 1866
+  Context:
+    - Venirea lui Carol I de Hohenzollern dupa Al. I. Cuza
+  Caract.:
+    - I constitutie democratica
+    - separarea puterilor in stat
+    - adoptata fara acordul Mariilor Puteri
+  Principiul de baza:
+    - Separarea puterilor in stat in:
+      > puterea executiva => Domn + Guvern
+      > puterea legislativa:
+        * Ad. Deputat
+        * Senat
+      > puterea judecatoreasca => Inalta curte de justitie
+  Existau numeroase drepturi si libertati precum:
+    - libertatea presei
+    - libertatea
+    - lib. intrunirilor
+  In 1884 a fost modificata introducerea termenului de regat si micsorarea numarului de colegii electorale. Votul era cenzitar.
 
   b. Constitutia din 1923
+  Context:
+    - Se impunea cu necesitate prin realizarea unor reforme
+  Caracteristici:
+    - Are caracter demografic
+    - Prezinta separarea puterilor in stat
+    - Are la baza principiul natiunii
+  *Separarea puterilor in stat este asemanatoare cu cea din 1866
+  Noutati:
+    - Romania este stat national unitar si indivizibil
+    - Votul este UNIVERSAL
+    - Dreptul de expropiere in caz de utilitate publica
+    - Mai mult drepturi si libertati cetatenesti
 
-  c. Constitutia din 1991 in vigoare
+  c. Constitutia din 1991(in vigoare)
+  Context:
+    - Este adoptata dupa inlaturarea comunismului si adoptarea democratiei
+  Caracterizare:
+    - Este democratica
+    - Are la baza separarea puterilor in stat
+    - Principala institutie este Parlamentul care este BiCameral
+    - Presedintele este un mediator intre <****> statului
+    - Puterea executiva apartine guvernului
+  Drepturi si libertati cetatenesti:
+    - Sunt numeroase pt ca sunt adoptate dupa toate documentele internationale
+  Modificari: in 2003 a fost modificata astfel:
+    - Mandatul Presedintelui creste de la 4 ani la 5 ani
+    - Este introdusa permisiunea de a candida la parlamentul european
+
+  (d.) Constitutia autoritara din 1938
+  Context:
+    - Niciun partid politic nu obtine majoritatea
+    - Regele Carol al II-lea da o lovitura de stat si instaureaza regimul
+  Caracterizare:
+    - Este autoritara
+    - Regele este capul statului
+    - Are initiativa legislativa
+    - Poate dizolva parlamentul
+    - Drepturile si libertatile sunt limitate
+    - dreptul de vot este redus doar pentru cei peste 30 de ani
+  *Aceasta constitutie a ramas in functiune timp de doar 2 ani
