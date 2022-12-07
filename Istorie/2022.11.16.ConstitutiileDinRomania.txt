@@ -87,3 +87,33 @@ Constitutiile din Romania
     - Drepturile si libertatile sunt limitate
     - dreptul de vot este redus doar pentru cei peste 30 de ani
   *Aceasta constitutie a ramas in functiune timp de doar 2 ani
+
+[2022.12.07]
+Constitutii comuniste
+1. Constitutia din 1948
+  Context:
+    - Venirea comunistiilor impunea adoptarea unei noi contitutii care sa modifice regimul politic
+  Prevedere:
+    - Romania era un stat POPULAR condus de Marea Adunare Nationala (MAN)
+    - MAN isi alege un prezidiu care conduce in perioada de vacanta a MAN
+    - Puterile nu mai sunt impartite
+    - MAN este organul suprem al puterii de stat
+    - MAN este guvern si parlament
+    - Sunt prevazute multe drepturi si libertati, dar ele sunt incalcate in practica
+
+2. Constitutia din 1953
+  Context:
+    - Este o constitutie Stalinista
+    - Nu aduce mai modificari
+    - Vorbeste despre rolul partidului unic
+    - Vorberste despre monopolul statului asupra comertului
+
+3. Constitutia din 1965
+  Context:
+    - Venirea lui Ceausescu impunea venirea unei noi constitutii
+    - Se modifica numele tarii din RPR in RSR(Republica Socialista Romania)
+    - Se modifica numele partidului din PMR(Partidul Muncitoresc Roman) in PCR(Partidul Comunist Roman)
+    - Sunt numeroase drepturi si libertati
+  Modificari:
+    - 1968 - Inlaturate denumirile de raioane si adoptate vechiile denumiri de judete, localitati, municipii
+    - 1974 - Ceausescu devine primul presedinte al RSR
