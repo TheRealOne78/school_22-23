@@ -1,0 +1,27 @@
+Permit afisarea mai multor subferestre intr-o fereastra de browser.
+Fiecare subfereastra(cadru) reprezinta o pagina web independenta de celelalte.
+
+Exista 2 taburi principale pentru cadre:
+  1. <frameset> ce defineste un set de cadre
+	2. <frame> ce defineste cadrul in sine
+
+1. Frameset
+  - defineste un set de cadre
+  - inlocuieste blocul body
+  - are rolul de a imparti o fereastra in mai multe subferestre
+  - Are 2 atribute principale:
+    1. rows="dimensiune 1, dimensiune 2, ..." descrie liniile in care este impartita fereastra
+      Ex.: <frameset row="25%, *, *">
+    2. cols="dimensiune 1, dimensiune 2, ..." descrie coloanele in care este impartita fereastra
+    3. bordercolor="culoare"
+    4. border
+    5. frame-border="yes/no" care stabileste cadrele
+2. Frame
+  - Are atributele:
+    1. src="pagina web"
+    2. border-color
+    3. noresize
+    4. scrolling="yes/no"
+    5. marginwidth="px"
+    6. name - atribuie un nume pt cadru
+      Dupa ce s-a dat un nume cadrului se poate folosi pentru a se incarca orice pagina web(<a href="">)

@@ -9,3 +9,42 @@ Taxele vamale produc urmatoarele efecte:
 - efecte de ristribuire a veniturilor intre diferite categorii de participanti la activitatea economica(producatori, consumatori, stat)
 - efecte asupra veniturilor diferitelor categorii sociale
 - efecte asupra raportului de schimb al tarii
+
+
+[]
+Se importa un autoturism cu capacitate cilindrica a motorului de 6200 cc din SUA.
+Pret extern = 100_000 USD
+Cheltuieli pe parcurs extern:
+  Cheltuieli cu transportul = 5_000 USD
+  Cheltuieli cu incarcarea-descarcarea = 2_000 USD
+  Cheltuieli cu asigurarea = 3_000 USD
+
+Taxa vamala = cota de taxa vamala * valoarea in vama
+Cota de taxa vamala = 10%
+
+Valoarea in vama = pret extern + cheltuieli pe parcurs extern
+Cheltuieli pe parcurs extern = 5_000 + 2_000 + 3_000 = 10_000 USD
+
+
+Pret de vanzare cu amanuntul = Cost de achizitie +
+                               Adaos comercial +
+                               TVA
+Cost de achizitie = 100 lei
+Cost de adaos comercial = 10%
+Cost standard de TVA = 19%
+Adaos comercial = Costulde achizitie * cota de adaos comercial
+Adaos comercial = 100 * 10% = 10 lei
+TVA = (cost de achizitie + adaos comercial) * cota de TVA
+TVA = (100 + 10) * 19% = 20,90 lei
+
+Pretul de vanzare cu amanuntul = 100 + 10 + 20,90 = 130,90 lei
+
+Pretul de vanzare cu amanuntul = 119
+Cota de TVA = 19%
+TVA = ? lei
+
+119 lei ............... 100% + 19%
+x lei   ............... 19%
+
+119 lei / x lei = (100% + 19%) / 19%
+x = (119x * 19) / (100 + 19) = (119 x * 19) / 119 = 19 lei
