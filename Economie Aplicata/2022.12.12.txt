@@ -59,3 +59,52 @@ Dep = Depozite
 Chf = Chltuieli de functionare
 Dî  = Dobanda incasata
 Dp  = Dobanda platita
+
+**Sub 6_2022**
+
+UTx_1 = ?
+UTx_1 = Umgx_1 = 10
+UTx4 = UTx_3 + Umgx_4 = 25 + 5 = 30
+UTx_5 = UTx_4 + Umgx_5 = 30 + 3 = 33
+
+----
+
+Umgx_2 = ΔUT/ΔQ = (UT_2 - UT_1) / (Q_2 - Q_1) = (18 - 10) / (2 - 1) = 8/1 = 8
+Umgx_3 = ΔUT/ΔQ = (UT_3 - UT_2) / (Q_3 - Q_2) = (25 - 18) / (3 - 2) = 7/1 = 7
+Umgx_6 = ΔUT/ΔQ = (UTx_6 - UTx_5) / (Q_6 - Q_5) = (33 - 33) / 1 = 0/1 = 0
+
+Umgx/Px = Umgy/Py
+V = X * Px + Y * Py
+V = 35 u.m.
+Px = 10 u.m.
+Py = 5 u.m.
+
+┌───┬────────┬────────┐
+│   │Umgx/Px │Umgy/Py │
+├───┼────────┼────────┤
+│ 1 │ 1      │ 4      │
+│   │        │        │
+│ 2 │ 0.8    │ 3      │
+│   │        │        │
+│ 3 │ 0.7    │ 2      │
+│   │        │        │
+│ 4 │ 0.5    │ 1      │
+│   │        │        │
+│ 5 │ 0.3    │ 0.2    │
+│   │        │        │
+│ 6 │ 0      │ 0      │
+└───┴────────┴────────┘
+
+*Ex**********************
+
+KT = 100 miliarde
+Q = 1_000 bucati
+Kf = 40 miliarde
+Ta = 8 am
+CA = 80 mlrd
+Pr = 5 mlrd
+
+-----
+
+KT = Kf + Kc
+A = Kf/TA
