@@ -1,0 +1,61 @@
+**Sub 4_2022**
+
+Q_0 = 100
+CFM_0 = 10
+CV_0 = 80% * CT_0
+
+CT_1 = CT_0 + 1_000
+CFM_1 = 50% * CFM_0
+
+----
+
+CFM = CF/Q
+CT = CF + CV
+
+a) Cost indirect unitar = CFM - 10
+CV_0 = ?
+CF_0 = 20% * CT_0
+CF_0 = CFM_0 * Q_0 = 10 * 100 = 1_000
+1_000 = 0,2 CT_0
+
+CFM_1 = 50% * CFM_0
+CT_1 = 5_000 + 1_000 = 6_000
+
+
+Textul face referire la piata bunurilor economice, la manifestarea cererii si
+ofertei si formarea pretului de echilibru in conditii de concurenta
+
+**Sub 5_2022**
+
+CA = Pv * Q
+Pru = Pv - CTM
+CTM = CT/Q
+Pr = CA - CT
+
+----
+
+Pr = 6.3 mil u.m = 90% Cb = 0.9 Cb
+dp = 10%
+dî = 12%
+Dî = 12% * Cr
+
+a) Suma platita de debitori pentru 100 um imprumutate este de 12 u.m.
+dî - dp = 12% * 10% = 2% diferenta in puncte procentuale
+Cr = ?        Chf = ?
+
+Pr = 0.9 CB
+6.3 mil = 0.9 CB
+CB = 6.3 mil / 0.9 = 63 mil / 9 = 7 mil u.m.
+Cb = 7 mil u.m.
+6.3 mil = 7 mil - Chf
+Chf = 7 mil - 6.3 mil = 0.7 mil = 700_000
+
+Pr  = Profit bancar
+Cb  = Castig bancar
+dp  = Rata dobanzii platite
+dî  = Rata dobanzii incasate
+Cr  = Credite
+Dep = Depozite
+Chf = Chltuieli de functionare
+Dî  = Dobanda incasata
+Dp  = Dobanda platita
