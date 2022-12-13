@@ -48,3 +48,19 @@ x lei   ............... 19%
 
 119 lei / x lei = (100% + 19%) / 19%
 x = (119x * 19) / (100 + 19) = (119 x * 19) / 119 = 19 lei
+
+[2022.12.13]
+
+I
+Achizitii = 20_000
+Livrari = 10_000
+TVA deductibila = 20_000 * 19% = 3_800
+TVA colectata = 10_000 * 19% = 1_900
+TVA colectata - TVA deductibila = 1_900 - 3_800 = -1_900 lei [SE REPORTEAZA]
+
+II
+Achizitii = 30_000
+Livrari = 40_000
+TVA deductibila = 30_000 * 19% = 5_700
+TVA coleclata = 40_000 * 19% = 7_600
+7_600 - 5_700 = 1_900 + (-1_900) = 0
