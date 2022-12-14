@@ -64,3 +64,25 @@ Livrari = 40_000
 TVA deductibila = 30_000 * 19% = 5_700
 TVA coleclata = 40_000 * 19% = 7_600
 7_600 - 5_700 = 1_900 + (-1_900) = 0
+
+
+
+Cota de impozit = 0.2%
+Suprafata construita a cladirii = 500m^2
+Zona A dintr-o localitate de rang 0
+Coeficient de corectie = 2.60
+Cladire cu cadre de beton armat si peretii din caramida arsa, cu instalatii electrice, de apa, canalizare, etc.
+Valoare impozabila = 1_000 lei/m^2
+1_000 lei/m^2 * 500m^2 = 500_000
+
+500_000 * 2.60 = 1_300_000 lei
+Impozit = 1_300_000 * 0.2% = 2_600 lei
+
+Zona B
+Rangul localitatii I
+Coeficient de corectie = 5,00
+Cota de impozit = 46 lei
+Unitatea de impunere = ha
+Suprafata terenului = 5_000 m^2
+5_000 * 1/10_000 = 0.5 ha
+Impozitul = 0.5 ha * 46 lei * 5.00 = 115 lei
