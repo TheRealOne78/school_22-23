@@ -86,3 +86,9 @@ Unitatea de impunere = ha
 Suprafata terenului = 5_000 m^2
 5_000 * 1/10_000 = 0.5 ha
 Impozitul = 0.5 ha * 46 lei * 5.00 = 115 lei
+
+
+[2022.12.21]
+IMPOZITUL PE MIJLOACELE DE TRANSPORT
+Autoturism cu capacitatea cilindrica de 3_200 cmcub
+Impozitul = 290 lei / 200 cmcub * 3200 cmc = 4640 lei
