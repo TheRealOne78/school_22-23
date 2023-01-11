@@ -1,0 +1,20 @@
+VB = 2550 lei
+CAS = 25% * 2550 = 637.5
+CASS = 10% = 255
+VN = 2550 - 637.5 - 255 = 1657.5
+VI = 1657.5 - 850 = 807.50 lei
+I = 807.5 * 10% = 80.75 lei
+Salariul net = 2550 - 637.5 - 255 - 80.75 = 1576.75
+
+Contribuabilul are in intretinere un copil minor.
+
+--------------------
+
+Deducerea personala
+- de baza
+25% * 3_000 = 750
+      ^--S.M.E
+
+- suplimentara 100 lei/copil minor
+
+Deducerea personala = 750 + 100 = 850 lei
